@@ -44,6 +44,7 @@ Code
 - [fractal](fractal)
   - 3 dimensions kernel
   - implement fractal
+  - unified memory
 
 Exercise
 
